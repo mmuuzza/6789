@@ -1,0 +1,4 @@
+/Users/lex/RiderProjects/ConsoleApp13/ConsoleApp13/obj/Debug/net8.0/ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lex/RiderProjects/ConsoleApp13/ConsoleApp13/obj/Debug/net8.0/ConsoleApp13.AssemblyInfoInputs.cache
+/Users/lex/RiderProjects/ConsoleApp13/ConsoleApp13/obj/Debug/net8.0/ConsoleApp13.AssemblyInfo.cs
+/Users/lex/RiderProjects/ConsoleApp13/ConsoleApp13/obj/Debug/net8.0/ConsoleApp13.csproj.CoreCompileInputs.cache
